@@ -1,22 +1,17 @@
 {
-    "name": "com.ramesh.flexibleui",
-    "version": "0.0.1",
+    "name": "com.rameshporeddy.flexibleui",
+    "version": "1.0.0",
     "displayName": "Flexible UI",
-    "description": "This is an example package",
+    "description": "This is flexibleui package",
     "unity": "2018.2",
-    "unityRelease": "0b5",
-    "dependencies": {
-      "com.unity.some-package": "1.0.0",
-      "com.unity.other-package": "2.0.0"
-   },
    "keywords": [
-      "keyword1",
-      "keyword2",
-      "keyword3"
+      "flexibleui",
+      "UI",
+      "Theme"
     ],
     "author": {
-      "name": "Unity",
-      "email": "unity@example.com",
+      "name": "Ramesh Poreddy",
+      "email": "ramesh.poreddy@gmail.com",
       "url": "https://www.unity3d.com"
     }
   }
